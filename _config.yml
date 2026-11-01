@@ -1,0 +1,5 @@
+# GitHub Pages settings. The site is plain HTML; Jekyll only copies it.
+# Folders starting with "_" (_tools, _google-sites-backup) are never published.
+exclude:
+  - README.md
+  - .gitignore
